@@ -1,4 +1,4 @@
-krystal clear license:
+krystal clear OSS license:
 
 this license has a focus on both freedom and software preservation, but also consider the creator's rights and monetary gain
 
@@ -11,3 +11,5 @@ this license has a focus on both freedom and software preservation, but also con
 4# if your project is a FOSS (must be both free and open source) one, rights on 2 and 3 do not apply.
 
 5# you MUST ALWAYS give credit to the things your project depends on, using either things like credits on games, or 'about' sections or the description of the software.
+
+6# this rule only apply to software safety. in case the safety of your software depends on remaining closed source, please separate the security part from the rest of the software. the security part can be forever closed source and the rest of the project must open its source. example: online game have server and client side, the part of the software that connects the client to the server in case theres cryptography and how user information is stored in the server can both be forever closed source, the rest must have their source code released.
