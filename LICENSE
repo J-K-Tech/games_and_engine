@@ -8,6 +8,6 @@ this license has a focus on both freedom and software preservation, but also con
 
 3# in case your project depends on any other that has this license (including the ones in this repository) and you want to charge for it, if the creator of the project have any violation on the public knowledge that they were the creator of the dependency and/or significant (at least 10%) monetary loss, they gave the rights to take such project down. this rule is to prevent content theft.
 
-4# if your project is a FOSS one, rules 2 and 3 do not apply.
+4# if your project is a FOSS (must be both free and open source) one, rights on 2 and 3 do not apply.
 
 5# you MUST ALWAYS give credit to the things your project depends on, using either things like credits on games, or 'about' sections or the description of the software.
